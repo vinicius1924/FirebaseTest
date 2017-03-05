@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirebaseTeste</string>
+    <string name="auth_failed">Auth Failed</string>
+    <string name="register">Register</string>
+    <string name="create_user">Create User</string>
+    <string name="signin">Sign In</string>
+    <string name="logged">You are logged as:</string>
+    <string name="logout">Logout</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="database">Realtime Database</string>
+    <string name="send">Send</string>
+    <string name="user_created">User Created</string>
+</resources>
